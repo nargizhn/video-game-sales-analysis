@@ -33,7 +33,7 @@ This project analyzes video game sales data using Python and Jupyter Notebook. I
 ### Box Plot: National Sales by Country and Genre
 ![Box Plot](box_plot.png)
 
-### Pie Chart: Share of National and Global Sales by Country
+### Pie Chart: Share of National and Global Sales
 ![Box Plot](pie_chart.png)
 
 ### Line Chart: National and Global Sales Trends
